@@ -1,4 +1,4 @@
-**An Advanced Web Panel • Built on Xray Core**
+**An Advanced Server Detail • Built on PHP**
 
 [![](https://img.shields.io/github/v/release/FarshadGhanbari/checkserver.svg)](https://github.com/FarshadGhanbari/checkserver/releases)
 [![](https://img.shields.io/github/actions/workflow/status/FarshadGhanbari/checkserver/release.yml.svg)](#)
@@ -11,3 +11,5 @@
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/FarshadGhanbari/checkserver/main/install.sh)
 ```
+
+### RUN after install: http://your-domain:20000/check.php
